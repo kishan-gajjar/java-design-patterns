@@ -1,5 +1,5 @@
 # java-design-patterns
-This repository containing explanation and examples of some of the Java Design Patterns
+This repository contains examples of some of the Java Design Patterns
 
 # strategy-pattern
 
