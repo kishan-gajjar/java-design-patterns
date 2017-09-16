@@ -1,7 +1,7 @@
-# java-design-patterns
+# Java Design Patterns
 This repository contains examples of some of the Java Design Patterns
 
-# strategy-pattern
+# Strategy Pattern
 
 Strategy pattern is based on three design principle:
 
